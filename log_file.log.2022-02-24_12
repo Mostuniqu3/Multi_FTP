@@ -1,0 +1,357 @@
+2022-02-24 10:22:51,662 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:23:19,414 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:23:24,326 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:23:49,581 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:24:12,535 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:24:18,014 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:24:32,693 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:25:08,226 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:25:33,567 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:25:54,470 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:26:01,979 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:27:40,273 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:28:48,764 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:30:01,686 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:30:07,848 - root - ERROR - logger : 30 - Invalid FTP website
+2022-02-24 10:30:28,504 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:32:20,152 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:32:24,170 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:32:29,766 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:32:56,772 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:33:51,424 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:33:58,891 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:34:07,319 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:34:07,355 - root - INFO - logger : 20 - Folder created : /Test2
+2022-02-24 10:34:47,777 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:35:05,364 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:36:25,047 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:36:52,870 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:36:52,902 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 10:37:34,475 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:38:48,485 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:39:04,543 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:39:31,832 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:41:02,146 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:41:18,361 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:41:18,421 - root - INFO - logger : 20 - Folder created : /Test/Oui
+2022-02-24 10:41:23,032 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:41:29,284 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:44:09,831 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:44:15,237 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:44:32,217 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:46:34,178 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:46:56,600 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:48:36,464 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:50:16,522 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:50:16,587 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 10:50:39,805 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:50:48,982 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:50:53,786 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:50:57,789 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:51:09,176 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:51:20,646 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:51:24,380 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:51:28,257 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:51:28,340 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 10:51:44,747 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:52:12,709 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:52:12,748 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 10:54:56,948 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 10:55:34,164 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:00:06,780 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:00:18,128 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:00:32,798 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:00:45,428 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:01:02,285 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:02:14,605 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:05:58,456 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:06:05,679 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:06:13,205 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:06:20,842 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:06:52,430 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:07:10,477 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:07:46,386 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:08:05,203 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:08:05,256 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:16:00,345 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:17:02,990 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:17:03,025 - root - INFO - logger : 20 - Folder created : ./Test
+2022-02-24 11:17:20,834 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:17:20,925 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:20:29,128 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:21:00,513 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:21:04,913 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:21:04,972 - root - INFO - logger : 20 - Folder created : Test\Oui
+2022-02-24 11:21:21,770 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:21:29,306 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:21:41,880 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:22:14,128 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:22:28,661 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:26:39,281 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:26:39,342 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:27:02,368 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:27:02,446 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:38:39,303 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:38:39,397 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:38:55,533 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:38:55,611 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:39:03,699 - root - INFO - logger : 20 - Folder created : Test\New folder
+2022-02-24 11:39:07,761 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:39:16,072 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:39:16,132 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:39:16,134 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:40:19,030 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:40:19,089 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:40:19,129 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:40:19,132 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:40:19,134 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:41:52,853 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:41:52,894 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:41:52,936 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:41:52,939 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:41:52,943 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:42:07,427 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:42:07,457 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:42:07,505 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:42:07,509 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:42:07,512 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:42:20,389 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:42:20,427 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:42:20,462 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:42:20,465 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:42:20,468 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:42:37,430 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:42:37,461 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:42:37,506 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:42:37,510 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:42:37,513 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:42:50,939 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:42:50,979 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:42:51,015 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:42:51,018 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 11:42:51,021 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:44:03,964 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\New folder
+2022-02-24 11:44:07,994 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:44:07,998 - root - INFO - logger : 20 - Folder removed : Test\Bonsoire\New folder
+2022-02-24 11:44:12,060 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:44:16,133 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:46:54,310 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\New folder
+2022-02-24 11:46:58,363 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:46:58,366 - root - INFO - logger : 20 - Folder removed : Test\Bonsoire\Bonjoure\New folder
+2022-02-24 11:54:11,068 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:54:11,126 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:54:11,175 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:55:59,510 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:55:59,556 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:55:59,599 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:56:38,280 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:56:38,319 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:56:38,355 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:56:38,358 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:56:38,360 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:56:38,364 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:56:38,367 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:56:38,371 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:56:56,122 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:56:56,165 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:56:56,206 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:56:56,208 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:56:56,210 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:56:56,213 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:56:56,216 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:56:56,219 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:57:23,768 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:57:23,797 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:57:23,839 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:57:23,843 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:57:23,845 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:57:23,849 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:57:23,852 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:57:23,856 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:58:07,886 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:58:07,938 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:58:07,988 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:58:17,717 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:58:17,749 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:58:17,776 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:58:17,778 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:58:17,780 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:58:17,783 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:58:17,786 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:58:17,788 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:58:34,580 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:58:34,630 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:58:34,675 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:58:45,471 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:58:45,499 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:58:45,523 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:59:40,303 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:59:40,337 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:59:40,369 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:59:40,373 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:59:40,376 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:59:40,379 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:59:40,382 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:59:40,386 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 11:59:59,334 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 11:59:59,370 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 11:59:59,423 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 11:59:59,429 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 11:59:59,433 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 11:59:59,437 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 11:59:59,440 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 11:59:59,443 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:02:53,455 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:02:53,488 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:02:53,512 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:02:53,518 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:02:53,521 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:02:53,524 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:02:53,527 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:02:53,530 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:04:09,039 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:04:09,087 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:04:09,129 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:04:09,134 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:04:09,137 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:04:09,141 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:04:09,144 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:04:09,147 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:04:26,958 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:04:26,995 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:04:27,045 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:04:27,052 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:04:27,054 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:04:27,058 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:04:27,061 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:04:27,064 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:05:05,346 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:05:05,379 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:05:05,418 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:05:05,422 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:05:05,424 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:05:05,427 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:05:05,429 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:05:05,434 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:05:39,766 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:05:39,801 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:05:39,843 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:05:39,846 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:05:39,849 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:05:39,852 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:05:39,855 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:05:39,858 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:06:10,847 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:06:10,880 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:06:10,903 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:06:10,906 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:06:10,909 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:06:10,911 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:06:10,913 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:06:10,916 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:06:37,288 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:06:37,326 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:06:37,358 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:06:37,361 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:06:37,364 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:06:37,367 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:06:37,370 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:06:37,373 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:07:50,653 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:07:50,689 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:07:50,715 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:07:50,719 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:07:50,721 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:07:50,723 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:07:50,725 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:07:50,727 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:08:04,796 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:08:04,840 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:08:04,890 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:08:04,894 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:08:04,895 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:08:04,898 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:08:04,901 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:08:04,904 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:08:23,914 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:08:23,962 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:08:24,005 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:08:24,010 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:08:24,013 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:08:24,016 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:08:24,019 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:08:24,022 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:09:35,271 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:09:35,322 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:09:35,363 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:09:35,366 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:09:35,368 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:09:35,370 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:09:35,373 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:09:35,377 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:10:55,401 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:10:55,456 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:10:55,502 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:10:55,506 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:10:55,509 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:10:55,513 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:10:55,516 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:10:55,519 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:11:25,376 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:11:25,409 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:11:25,439 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:11:25,443 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:11:25,445 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:11:25,447 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:11:25,450 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:11:25,453 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:12:02,737 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:12:02,787 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:12:02,837 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:12:02,842 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:12:02,844 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:12:02,848 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:12:02,850 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:12:02,853 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:12:52,262 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:12:52,311 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:12:52,342 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:12:52,347 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:12:52,351 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:12:52,353 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:12:52,356 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:12:52,359 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:13:17,816 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:13:17,862 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:13:17,896 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:13:17,900 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:13:17,904 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:13:17,906 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:13:17,909 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:13:17,912 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:13:37,258 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:13:37,289 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:13:37,317 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:13:37,321 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:13:37,324 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:13:37,327 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:13:37,329 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:13:37,332 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:14:19,247 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:14:19,281 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:14:19,308 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:14:19,314 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 12:14:19,315 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:14:19,317 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:14:19,319 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:14:19,321 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:14:19,324 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
+2022-02-24 12:15:21,298 - root - INFO - logger : 20 - Valid parameters
+2022-02-24 12:15:21,342 - root - INFO - logger : 20 - Folder created : Test
+2022-02-24 12:15:21,382 - root - INFO - logger : 20 - Folder created : Test\Bonsoire
+2022-02-24 12:15:21,388 - root - INFO - logger : 20 - File created / updated : srv Test\i.tx file i.tx
+2022-02-24 12:15:21,388 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1
+2022-02-24 12:15:21,391 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure
+2022-02-24 12:15:21,394 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2
+2022-02-24 12:15:21,396 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\1\2\3
+2022-02-24 12:15:21,399 - root - INFO - logger : 20 - Folder created : Test\Bonsoire\Bonjoure\Rien
