@@ -1,4 +1,3 @@
-
 from logger import Logger
 from threading import Thread
 import time
