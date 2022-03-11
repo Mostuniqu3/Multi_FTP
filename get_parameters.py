@@ -1,6 +1,5 @@
 import os
 import argparse
-import logging
 from logger import Logger
 
 def get_user_parameters():
@@ -9,9 +8,9 @@ def get_user_parameters():
     parser.add_argument("local_directory", help="Directory we want to synchronize", type=str)
     parser.add_argument("max_depth", help="Maximal depth to synchronize starting from the root directory", type=int)
     parser.add_argument("refresh_frequency", help="Refresh frequency to synchronize with FTP server (in seconds)", type=int)
+    parser.add_argument("thread_number", help="Number of threads", type=int)
     parser.add_argument("excluded_extensions", nargs='*', help="List of the extensions to excluded when synchronizing (optional)",
                         type=str, default=[])
-    parser.add_argument("thread_number", help="Number of threads", type=int)
     # nargs = '*' : the last argument take zero or more parameter
     args = parser.parse_args()
 
