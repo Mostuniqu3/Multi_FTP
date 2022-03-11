@@ -11,6 +11,7 @@ def get_user_parameters():
     parser.add_argument("refresh_frequency", help="Refresh frequency to synchronize with FTP server (in seconds)", type=int)
     parser.add_argument("excluded_extensions", nargs='*', help="List of the extensions to excluded when synchronizing (optional)",
                         type=str, default=[])
+    parser.add_argument("thread_number", help="Number of threads", type=int)
     # nargs = '*' : the last argument take zero or more parameter
     args = parser.parse_args()
 
@@ -36,6 +37,17 @@ def get_user_parameters():
             Logger.log_error("Invalid value for the maximal depth : it can not be inferior or equal to 0")
             wrong_input = True
 
+    #get thread number
+    try:
+        thread_number = int(args.thread_number)
+    except ValueError:
+        Logger.log_error("Invalid input for the number of threads : must be an integer")
+        wrong_input = True
+    else:
+        if thread_number <= 0:
+            Logger.log_error("Invalid value for the number of threads : it can not be inferior or equal to 0")
+            wrong_input = True
+
     # get the refresh frequency
     try:
         refresh_frequency = int(args.refresh_frequency)
@@ -52,6 +64,6 @@ def get_user_parameters():
 
     if wrong_input is False:
         Logger.log_info("Valid parameters")
-        return ftp_website, local_directory, max_depth, refresh_frequency, excluded_extensions
+        return ftp_website, local_directory, max_depth, refresh_frequency, excluded_extensions, thread_number
     else:
         return 0

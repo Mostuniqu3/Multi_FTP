@@ -8,7 +8,7 @@ from talk_to_ftp import TalkToFTP
 from FileThread import FileThread
 
 class DirectoryManager:
-    def __init__(self, ftp_website, directory, depth, excluded_extensions):
+    def __init__(self, ftp_website, directory, depth, excluded_extensions, thread_number):
         self.root_directory = directory
         self.depth = depth
         # list of the extensions to exclude during synchronization
@@ -35,7 +35,7 @@ class DirectoryManager:
         self.ftp.disconnect()
 
         self.fileQueue = Queue()
-        self.threadNumber = 32
+        self.threadNumber = thread_number
         self.fileThreads = [FileThread(ftp_website, self.fileQueue, i) for i in range(self.threadNumber)]
         [self.fileThreads[i].start() for i in range(len(self.fileThreads))]
 
